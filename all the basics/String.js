@@ -11,7 +11,7 @@ console.log(`my name is ${name.toUpperCase()} and my surname is ${surname}`);
 
 
 
-
+ 
 //one more effective way of declaring array is using new keyword
 let nameone = new String('haha this is also sankarshan');
 console.log(nameone);
